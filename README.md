@@ -64,14 +64,5 @@ The primary goal of this project is to analyze HR data and help HR teams and bus
 - 🚀 Practiced end-to-end data project workflow: cleaning → visualizing → publishing
 
 
----
-
-## 📬 Let's Connect!
-
-I'm always open to feedback, collaboration, or freelance dashboard work.  
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/prakrutiparmar)
-
----
-
 
 
